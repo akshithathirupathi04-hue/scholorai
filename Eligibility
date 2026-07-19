@@ -1,0 +1,15 @@
+function checkEligibility(income){
+
+if(income<=200000){
+return "Eligible";
+}
+
+else if(income<=500000){
+return "Partially Eligible";
+}
+
+else{
+return "Not Eligible";
+}
+
+}
