@@ -1,0 +1,13 @@
+function applyScholarship(url){
+   window.open(url,"_blank");
+}
+
+document
+.getElementById("apply-btn")
+.addEventListener("click",function(){
+
+applyScholarship(
+"https://scholarships.gov.in/"
+);
+
+});
