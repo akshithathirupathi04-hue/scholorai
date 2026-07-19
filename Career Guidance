@@ -1,0 +1,17 @@
+function careerSuggestion(course){
+
+if(course=="B.Tech"){
+return "AI, Web Development and Data Science";
+}
+
+if(course=="B.Sc"){
+return "Cyber Security and Programming";
+}
+
+if(course=="B.Com"){
+return "Finance and Accounting";
+}
+
+return "Career guidance available.";
+
+}
