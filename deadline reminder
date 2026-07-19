@@ -1,0 +1,7 @@
+function deadlineReminder(){
+
+alert(
+"Scholarship applications close soon. Please apply before the deadline."
+);
+
+}
