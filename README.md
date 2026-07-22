@@ -1,1 +1,1 @@
-# scholorai
+# social impact
